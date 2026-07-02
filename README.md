@@ -12,8 +12,8 @@
 
 | 프로젝트 | 설명 | UI |
 |---|---|---|
-| [hotel-review-lcel-pipeline](링크) | 리뷰 번역/분석 LCEL 체인 | 없음 (스크립트) |
-| [multi-city-time-chat](링크) | 다중 도시 시간 안내 챗봇 | Streamlit |
+| [hotel-review-lcel-pipeline](./hotel-review-lcel-pipeline/README.md) | 리뷰 번역/분석 LCEL 체인 | 없음 (스크립트) |
+| [multi-city-time-chat](./multi-city-time-chat/README.md) | 다중 도시 시간 안내 챗봇 | Streamlit |
 
 
 <br/>
